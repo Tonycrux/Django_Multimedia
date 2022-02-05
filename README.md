@@ -1,0 +1,1 @@
+"A Photosharing Django Application" 
